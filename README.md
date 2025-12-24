@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <h2>👋 Hi, I'm <strong>Momen Yousri</strong></h2>
@@ -18,13 +17,13 @@
 </div>
 
 ---
-## 🚀 social Media 
+## 🚀 Contact Me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Momen%20Yousri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momenyousrix/)](https://www.linkedin.com/in/momenyousrix/)
 [![Instagram Badge](https://img.shields.io/badge/-momenyousrix-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/momenyousrix/)](https://instagram.com/momenyousrix)
 [![Youtube Badge](https://img.shields.io/badge/-momenyousrix-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@momenyousrix)](https://www.youtube.com/@momenyousrix)
 [![Medium Badge](https://img.shields.io/badge/-@momenyousrix-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@momenyousrix/)](https://medium.com/@momenyousrix)
-[![Gmail Badge](https://img.shields.io/badge/-momenshop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:momenyousrix@gmail.com)](mailto:momenyousrix@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-momenyousri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:momenshop@gmail.com)](mailto:momenyousrix@gmail.com)
 
 
 
