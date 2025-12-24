@@ -18,6 +18,15 @@
 </div>
 
 ---
+## 🚀 social Media 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Momen%20Yousri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momenyousrix/)](https://www.linkedin.com/in/momenyousrix/)
+[![Instagram Badge](https://img.shields.io/badge/-momenyousrix-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/momenyousrix/)](https://instagram.com/momenyousrix)
+[![Youtube Badge](https://img.shields.io/badge/-momenyousrix-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@momenyousrix)](https://www.youtube.com/@momenyousrix)
+[![Medium Badge](https://img.shields.io/badge/-@momenyousrix-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@momenyousrix/)](https://medium.com/@momenyousrix)
+[![Gmail Badge](https://img.shields.io/badge/-momenshop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:momenyousrix@gmail.com)](mailto:momenyousrix@gmail.com)
+
+
 
 ## 🚀 About Me
 - 🤖 Passionate about **Machine Learning & AI**
