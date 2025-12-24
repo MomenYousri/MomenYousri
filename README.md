@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-![Hey there, I'm MOMENYOUSRI. I'm Machine Learning Engineer passionate about AI, Embedded Systems, and UI/UX Design. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gf)
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 <h2>👋 Hi, I'm <strong>Momen Yousri</strong></h2>
 <h4>Machine Learning Engineer | Embedded Systems | UI/UX  Designer</h4>
