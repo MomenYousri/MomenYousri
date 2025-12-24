@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+![Hey there, I'm MOMENYOUSRI. I'm Machine Learning Engineer passionate about AI, Embedded Systems, and UI/UX Design. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gf)
 
 <h2>👋 Hi, I'm <strong>Momen Yousri</strong></h2>
 <h4>Machine Learning Engineer | Embedded Systems | UI/UX  Designer</h4>
